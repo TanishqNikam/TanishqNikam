@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Tanishq Nikam</h1>
 <h3 align="center">A passionate Full Stack Developer and a Cybersecurity enthusiast</h3>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 - 📫 How to reach me **tanishqnikam11@gmail.com**
 
